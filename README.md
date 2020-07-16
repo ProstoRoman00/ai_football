@@ -1,2 +1,2 @@
 # ai_football
-AI algorithm for training football result prediction
+Files for football result prediction
